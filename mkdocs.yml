@@ -1,0 +1,4 @@
+site_name: مستندات من
+theme: readthedocs
+Nav:
+- خانه: index.md
